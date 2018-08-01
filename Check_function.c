@@ -7,3 +7,10 @@
 //
 
 #include <stdio.h>
+
+int main{
+    
+    printf("HelloWorld\n");
+    
+    retun 0;
+}
